@@ -1,3 +1,10 @@
+Install This Project
+1. Download project
+2. Change name database (ign-test) in file .env
+3. make database "ign-test"
+4. migration tables to database or import file ign-test.sql into database (if you choose to migration, tables will be empty. i suggest to import SQL file)
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
